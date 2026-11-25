@@ -1,0 +1,182 @@
+[
+ {
+  "title": "Groovy in the Grove 5 min to SSM",
+  "city": "St. Louis",
+  "hood": "The Grove",
+  "sleeps": 4,
+  "bedrooms": 1,
+  "reviews": 245,
+  "rating": 4.85,
+  "airbnb": "https://www.airbnb.com/rooms/984036402113828302",
+  "img": [
+   "img/groovy-groovy-in-the-grove-5-m-01.jpg",
+   "img/groovy-groovy-in-the-grove-5-m-02.jpg",
+   "img/groovy-groovy-in-the-grove-5-m-03.jpg"
+  ]
+ },
+ {
+  "title": "Be in the heart of Mardi Gras - Across from Duke's",
+  "city": "St. Louis",
+  "hood": "Soulard",
+  "sleeps": 4,
+  "bedrooms": 1,
+  "reviews": 243,
+  "rating": 4.86,
+  "airbnb": "https://www.airbnb.com/rooms/1087059774148601533",
+  "img": [
+   "img/2e-the-heart-of-mardi-gras-sou-01.jpg",
+   "img/2e-the-heart-of-mardi-gras-sou-02.jpg",
+   "img/2e-the-heart-of-mardi-gras-sou-03.jpg"
+  ]
+ },
+ {
+  "title": "Chill Soulard Condo Across from Duke's",
+  "city": "St. Louis",
+  "hood": "Soulard",
+  "sleeps": 4,
+  "bedrooms": 1,
+  "reviews": 235,
+  "rating": 4.76,
+  "airbnb": "https://www.airbnb.com/rooms/953558394417868120",
+  "img": [
+   "img/2w-chill-soulard-condo-across--01.jpg",
+   "img/2w-chill-soulard-condo-across--02.jpg",
+   "img/2w-chill-soulard-condo-across--03.jpg"
+  ]
+ },
+ {
+  "title": "The Grove's Greenest Pad",
+  "city": "St. Louis",
+  "hood": "The Grove",
+  "sleeps": 4,
+  "bedrooms": 1,
+  "reviews": 234,
+  "rating": 4.91,
+  "airbnb": "https://www.airbnb.com/rooms/984316920688500734",
+  "img": [
+   "img/greenest-the-grove-s-greenest--01.jpg",
+   "img/greenest-the-grove-s-greenest--02.jpg",
+   "img/greenest-the-grove-s-greenest--03.jpg"
+  ]
+ },
+ {
+  "title": "Spacious Soulard 1BR Apt\u2014Sleeps 6 Comfortably",
+  "city": "St. Louis",
+  "hood": "Soulard",
+  "sleeps": 6,
+  "bedrooms": 1,
+  "reviews": 182,
+  "rating": 4.82,
+  "airbnb": "https://www.airbnb.com/rooms/1254274371666171512",
+  "img": [
+   "img/crow-unit-c-01.jpg",
+   "img/crow-unit-c-02.jpg",
+   "img/crow-unit-c-03.jpg"
+  ]
+ },
+ {
+  "title": "Cozy Soulard Retreat Near Bars - Sleeps 8 - Arcade",
+  "city": "St. Louis",
+  "hood": "Soulard",
+  "sleeps": 8,
+  "bedrooms": 3,
+  "reviews": 162,
+  "rating": 4.85,
+  "airbnb": "https://www.airbnb.com/rooms/1254281003033138018",
+  "img": [
+   "img/crow-unit-d-01.jpg",
+   "img/crow-unit-d-02.jpg",
+   "img/crow-unit-d-03.jpg"
+  ]
+ },
+ {
+  "title": "Soulard 1BR Gem: Sleeps 6, Luxe Comfort & 55\u201d TVs",
+  "city": "St. Louis",
+  "hood": "Soulard",
+  "sleeps": 6,
+  "bedrooms": 1,
+  "reviews": 158,
+  "rating": 4.72,
+  "airbnb": "https://www.airbnb.com/rooms/1316321679180760460",
+  "img": [
+   "img/crow-unit-a-01.jpg",
+   "img/crow-unit-a-02.jpg",
+   "img/crow-unit-a-03.jpg"
+  ]
+ },
+ {
+  "title": "2BR Soulard Apt\u2014Sleeps 10, Golden Tee Arcade Fun",
+  "city": "St. Louis",
+  "hood": "Soulard",
+  "sleeps": 10,
+  "bedrooms": 2,
+  "reviews": 152,
+  "rating": 4.84,
+  "airbnb": "https://www.airbnb.com/rooms/1253989533334666941",
+  "img": [
+   "img/crow-unit-b-01.jpg",
+   "img/crow-unit-b-02.jpg",
+   "img/crow-unit-b-03.jpg"
+  ]
+ },
+ {
+  "title": "Designer Home | Hot Tub + EV | Walk to Topgolf",
+  "city": "St. Louis",
+  "hood": "Near Topgolf",
+  "sleeps": 10,
+  "bedrooms": 3,
+  "reviews": 61,
+  "rating": 4.77,
+  "airbnb": "https://www.airbnb.com/rooms/1597341581750863462",
+  "img": [
+   "img/2930-hickory-01.jpg",
+   "img/2930-hickory-02.jpg",
+   "img/2930-hickory-03.jpg"
+  ]
+ },
+ {
+  "title": "The Luxe Monon Getaway+ Hot Tub",
+  "city": "Indianapolis",
+  "hood": "Monon / SoBro",
+  "sleeps": 14,
+  "bedrooms": 4,
+  "reviews": 44,
+  "rating": 4.68,
+  "airbnb": "https://www.airbnb.com/rooms/1374008150812629132",
+  "img": [
+   "img/2624-monon-luxe-01.jpg",
+   "img/2624-monon-luxe-02.jpg",
+   "img/2624-monon-luxe-03.jpg"
+  ]
+ },
+ {
+  "title": "The Monon Yard Three-Story | Hot Tub",
+  "city": "Indianapolis",
+  "hood": "Monon / SoBro",
+  "sleeps": 14,
+  "bedrooms": 4,
+  "reviews": 29,
+  "rating": 4.86,
+  "airbnb": "https://www.airbnb.com/rooms/1374002291760872002",
+  "img": [
+   "img/2622-monon-grand-01.jpg",
+   "img/2622-monon-grand-02.jpg",
+   "img/2622-monon-grand-03.jpg"
+  ]
+ },
+ {
+  "title": "Old Town Gem | Pool \u2022Arcade \u2022EV \u2022Fun Near It All!",
+  "city": "Scottsdale",
+  "hood": "Old Town Scottsdale",
+  "sleeps": 10,
+  "bedrooms": 4,
+  "reviews": 107,
+  "rating": 4.74,
+  "airbnb": "https://www.airbnb.com/rooms/1014593917112148220",
+  "img": [
+   "img/posh-sleeps-10-private-hot-tub-01.jpg",
+   "img/posh-sleeps-10-private-hot-tub-02.jpg",
+   "img/posh-sleeps-10-private-hot-tub-03.jpg"
+  ]
+ }
+]
