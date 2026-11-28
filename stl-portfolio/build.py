@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build stl-portfolio/index.html from _metrics.json (Hospitable payouts) + _data/listings.json."""
+"""Build stl-portfolio/index.html from _metrics.json (booking-system payouts) + _data/listings.json."""
 import json, os, html
 H = os.path.dirname(os.path.abspath(__file__))
 M = json.load(open(os.path.join(H, "_metrics.json")))
