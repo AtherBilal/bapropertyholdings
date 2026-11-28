@@ -1,0 +1,90 @@
+{
+ "units": {
+  "2E": {
+   "payout": 31587,
+   "nights": 347,
+   "stays": 143,
+   "cleaning": 6435,
+   "rent": 16380,
+   "utilities": 1500,
+   "contribution": 7272
+  },
+  "2W": {
+   "payout": 32326,
+   "nights": 352,
+   "stays": 130,
+   "cleaning": 5850,
+   "rent": 16380,
+   "utilities": 1500,
+   "contribution": 8596
+  },
+  "Groovy": {
+   "payout": 32924,
+   "nights": 333,
+   "stays": 137,
+   "cleaning": 6165,
+   "rent": 16800,
+   "utilities": 1500,
+   "contribution": 8459
+  },
+  "Greenest": {
+   "payout": 33188,
+   "nights": 355,
+   "stays": 145,
+   "cleaning": 6525,
+   "rent": 16800,
+   "utilities": 1500,
+   "contribution": 8363
+  },
+  "Crow A": {
+   "payout": 33054,
+   "nights": 345,
+   "stays": 168,
+   "cleaning": 7560,
+   "rent": 21000,
+   "utilities": 1500,
+   "contribution": 2994
+  },
+  "Crow B": {
+   "payout": 40069,
+   "nights": 296,
+   "stays": 141,
+   "cleaning": 8460,
+   "rent": 21000,
+   "utilities": 2100,
+   "contribution": 8509
+  },
+  "Crow C": {
+   "payout": 33003,
+   "nights": 341,
+   "stays": 165,
+   "cleaning": 7425,
+   "rent": 21000,
+   "utilities": 1500,
+   "contribution": 3078
+  },
+  "Crow D": {
+   "payout": 44897,
+   "nights": 335,
+   "stays": 150,
+   "cleaning": 9750,
+   "rent": 21000,
+   "utilities": 2400,
+   "contribution": 11747
+  }
+ },
+ "monthly": {
+  "2025-11": 22148,
+  "2025-12": 19556,
+  "2026-01": 18946,
+  "2026-02": 19867,
+  "2026-03": 26379,
+  "2026-04": 23568,
+  "2026-05": 26231,
+  "2026-06": 25813,
+  "2026-07": 28759,
+  "2026-08": 22825,
+  "2026-09": 23001,
+  "2026-10": 23953
+ }
+}
